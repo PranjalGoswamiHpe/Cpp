@@ -1,0 +1,2 @@
+D:\Code\pg-cpp\Cplusplus\Cplusplus\Debug\Cplusplus.exe
+D:\Code\pg-cpp\Cplusplus\Cplusplus\Debug\Cplusplus.pdb
